@@ -1,5 +1,5 @@
 {
-  "name": "AsmaaShAli/laravel-cache-fallback",
+  "name": "asmaaShAli/laravel-cache-fallback",
   "description": "Allow Laravel cache connections to fallback to more stable drivers.",
   "version": "0.1.0-dev",
   "keywords": [
