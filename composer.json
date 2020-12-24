@@ -1,5 +1,5 @@
 {
-  "name": "mathieu-bour/laravel-cache-fallback",
+  "name": "AsmaaShAli/laravel-cache-fallback",
   "description": "Allow Laravel cache connections to fallback to more stable drivers.",
   "version": "0.1.0-dev",
   "keywords": [
@@ -8,7 +8,7 @@
     "fallback",
     "driver"
   ],
-  "homepage": "https://github.com/mathieu-bour/laravel-cache-fallback",
+  "homepage": "https://github.com/AsmaaShAli/laravel-cache-fallback",
   "license": "MIT",
   "authors": [
     {
